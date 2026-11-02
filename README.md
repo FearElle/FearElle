@@ -50,17 +50,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="36" title="Postman" alt="Postman" style="margin: 0 18px 12px 0;"/>
 </p>
 
-## Estatísticas
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=FearElle&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39BFCB&icon_color=39BFCB&text_color=E6EDF3&include_all_commits=true"
-    height="165"
-    alt="Estatísticas do GitHub"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FearElle&layout=compact&hide_border=true&bg_color=0D1117&title_color=39BFCB&text_color=E6EDF3&langs_count=6"
-    height="165"
-    alt="Linguagens mais utilizadas"
-  />
-</p>
